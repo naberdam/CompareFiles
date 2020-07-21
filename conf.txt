@@ -1,0 +1,3 @@
+/home/nerya/CLionProjects/hafala/ex3/students
+/home/nerya/CLionProjects/hafala/ex3/io/input.txt
+/home/nerya/CLionProjects/hafala/ex3/io/correct_output.txt
